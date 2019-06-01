@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <div class="container">
+      
+        <div class="row">
+                <div class="col-sm">
+                    <input id="sum" type="text" class="form-control" value="">
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-sm">
+                        <input id="result" type="text" class="form-control" value="">
+                </div>
+        </div>
+        <div class="row">
+
+        <div class="col-sm">
+        <div class="row">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" onclick="add(1)" class="btn btn-secondary">1</button>
+                        <button type="button" onclick="add(2)" class="btn btn-secondary" >2</button>
+                        <button type="button" onclick="add(3)" class="btn btn-secondary" >3</button>
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" onclick="add(4)" class="btn btn-secondary">4</button>
+                        <button type="button" onclick="add(5)" class="btn btn-secondary">5</button>
+                        <button type="button" onclick="add(6)" class="btn btn-secondary">6</button>
+            
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" onclick="add(7)" class="btn btn-secondary">7</button>
+                        <button type="button" onclick="add(8)" class="btn btn-secondary">8</button>
+                        <button type="button" onclick="add(9)" class="btn btn-secondary">9</button>
+                </div>
+        </div>
+        
+  
+        <div class="row">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" onclick="add(0)" class="btn btn-secondary">0</button>
+                        <button type="button" onclick="add('dot')" class="btn btn-secondary">.</button>
+                        <button type="button" onclick="calc()" class="btn btn-secondary">=</button>
+                </div> 
+        </div>
+        </div>
+
+        <!---Skaičivimai + valdymas-->
+        <div class="col-sm">
+                <div class="row">
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                                <button type="button" onclick="add('plus')" class="btn btn-secondary">+</button>
+                                <button type="button" onclick="add('minus')" class="btn btn-secondary">-</button>
+                                <button type="button" onclick="add('divide')" class="btn btn-secondary">/</button>
+                        </div> 
+                </div>
+                <div class="row">
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                                <button type="button" onclick="add('multi')" class="btn btn-secondary">*</button>
+                                <button type="button" onclick="raise()" class="btn btn-secondary">^</button>
+                                <button type="button" onclick="sqroot()" class="btn btn-secondary">^1/2</button>
+                        </div> 
+                </div>
+                <div class="row">
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                                <button type="button" onclick="sin()" class="btn btn-secondary">sin</button>
+                                <button type="button" onclick="cos()" class="btn btn-secondary">cos</button>
+                                <button type="button" onclick="tan()" class="btn btn-secondary">tan</button>
+                        </div> 
+                </div>
+                <div class="row">
+                        <div class="btn-group" role="group" aria-label="Basic example">
+                                <button type="button" onclick="deleteLast()" class="btn btn-secondary">Clear</button>
+                                <button type="button" onclick="del()" class="btn btn-secondary">Delete</button>
+                                <button type="button" onclick="anyroot()" class="btn btn-secondary">^1/x</button>
+                        </div> 
+                </div>
+        </div>
+    </div>
+</div>
+    
+</body>
+</html>

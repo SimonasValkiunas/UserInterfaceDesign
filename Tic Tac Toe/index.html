@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+<div class="container">
+        <form id="playerForm">
+            <div class="form-group">
+                <label>Zeros:</label>
+                <input type="text" class="form-control" id="player1">
+                <label>Crosses:</label>
+                <input type="text" class="form-control" id="player2">
+                <button type="submit" class="btn btn-primary">Play</button>
+            </div>
+        </form>
+</div>
+
+<div id="tictactoe" style="display: none;">
+    <div class="row">
+        <div class="col-sm">
+                <label>Zeros:</label>
+                <div id="playerName1" value=""></div><br>
+                <label>Score: </label>
+                <div id="playerScore1" value="0">0</div>
+        </div>
+        <div class="col-sm">
+                <label>Crosses:</label>
+                <div id="playerName2" value=""></div><br>
+                <label>Score: </label>
+                <div id="playerScore2" value="0">0</div>
+        </div>
+    </div>
+
+    <div class="row">
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="0"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="1"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="2"></button>
+    </div>
+
+    <div class="row">
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="3"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="4"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="5"></button>
+
+    </div>
+
+    <div class="row">
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light"id="6"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light" id="7"></button>
+            <button type="button" onclick="addMark(this.id)" class="btn btn-light"id="8"></button>
+    </div>
+</div>
+
+
+</body>
+</html>

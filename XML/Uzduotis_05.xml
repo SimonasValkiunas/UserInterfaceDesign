@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+	<album>
+		<artist>Metallica</artist>
+		<title>Ride the lighting</title>
+		<year>1984</year>
+		<country>USA</country>
+		<genre>Rock</genre>
+		<style>Thrash metal</style>
+		<format>LP</format>
+		<label>Megaforce Records</label>
+		<id>MRI 769</id>
+	</album>
+	<album>
+		<artist>Kylie Minogue</artist>
+		<title>Golden</title>
+		<year>2018</year>
+		<country>Europe</country>
+		<genre>Pop</genre>
+		<style>Disco</style>
+		<format>CD</format>
+		<label>BMG</label>
+		<id>538360762</id>
+	</album>
+	<album>
+		<artist>Avicii</artist>
+		<title>Stories</title>
+		<year>2015</year>
+		<country>Sweden</country>
+		<genre>Electronic</genre>
+		<style>House</style>
+		<format>Digital</format>
+		<label>PRMD</label>
+		<id>none</id>
+	</album>
+	<album>
+		<artist>Rita Ora</artist>
+		<title>ORA</title>
+		<year>2012</year>
+		<country>UK</country>
+		<genre>Pop</genre>
+		<style>Rnb</style>
+		<format>CD</format>
+		<label>Columbia</label>
+		<id>88725452492</id>
+	</album>
+	<album>
+		<artist>Code: Pandorum</artist>
+		<title>Tears of Kali</title>
+		<year>2014</year>
+		<country>Unknown</country>
+		<genre>Electronic</genre>
+		<style>Dubstep</style>
+		<format>Digital</format>
+		<label>Prime Audio</label>
+		<id>PRIMEDIG035</id>
+	</album>
+	<album>
+		<artist>Alan Price</artist>
+		<title>Shouts across the street</title>
+		<year>1977</year>
+		<country>Japan</country>
+		<genre>Rock</genre>
+		<style>Pop rock</style>
+		<format>LP</format>
+		<label>Polydor</label>
+		<id>MPF 1033</id>
+	</album>
+	<album>
+		<artist>David Guetta</artist>
+		<title>7</title>
+		<year>2018</year>
+		<country>Europe</country>
+		<genre>Electronic</genre>
+		<style>Electro</style>
+		<format>2xCD</format>
+		<label>Warner Music France</label>
+		<id>0190295589486</id>
+	</album>
+	<album>
+		<artist>Daft punk</artist>
+		<title>Random access memory</title>
+		<year>2013</year>
+		<country>UK</country>
+		<genre>Electronic</genre>
+		<style>Disco</style>
+		<format>CD</format>
+		<label>Columbia</label>
+		<id>88883716862</id>
+	</album>
+	<album>
+		<artist>Madonna</artist>
+		<title>Ray of light</title>
+		<year>1998</year>
+		<country>UK</country>
+		<genre>Pop</genre>
+		<style>Dance-pop</style>
+		<format>CD</format>
+		<label>Warner Bros.</label>
+		<id>9362-46847-3</id>
+	</album>
+	<album>
+		<artist>Kamanių šilelis</artist>
+		<title>Namai</title>
+		<year>2017</year>
+		<country>Lituhuania</country>
+		<genre>World</genre>
+		<style>Indie rock</style>
+		<format>CD</format>
+		<label>Self-released</label>
+		<id>none</id>
+	</album>
+	<album>
+		<artist>Millencolin</artist>
+		<title>Life on a plate</title>
+		<year>1995</year>
+		<country>USA</country>
+		<genre>Rock</genre>
+		<style>Punk</style>
+		<format>MC</format>
+		<label>Epitaph</label>
+		<id>86467-4</id>
+	</album>
+	<album>
+		<artist>Genocide organ</artist>
+		<title>The truth will make you free</title>
+		<year>1999</year>
+		<country>Germany</country>
+		<genre>Electronic</genre>
+		<style>Power electronics</style>
+		<format>LP</format>
+		<label>Tesco Organisation</label>
+		<id>Tesco 040</id>
+	</album>
+	<album>
+		<artist>Rihanna</artist>
+		<title>Anti</title>
+		<year>2016</year>
+		<country>US</country>
+		<genre>Hip hop</genre>
+		<style>RnB</style>
+		<format>CD</format>
+		<label>Roc nation</label>
+		<id>B0022993-02</id>
+	</album>
+	<album>
+		<artist>Westbam</artist>
+		<title>Gotterstrasse</title>
+		<year>2013</year>
+		<country>Germany</country>
+		<genre>Electronic</genre>
+		<style>Synth-pop</style>
+		<format>CD</format>
+		<label>Vertigo Berlin</label>
+		<id>06025 3734565 6</id>
+	</album>
+	<album>
+		<artist>Darkthrone</artist>
+		<title>A blaze in the northern sky</title>
+		<year>1992</year>
+		<country>Europe</country>
+		<genre>Rock</genre>
+		<style>Black metal</style>
+		<format>CD</format>
+		<label>Peaceville</label>
+		<id>VILE 28CD</id>
+	</album>
+	<album>
+		<artist>Pushaz</artist>
+		<title>Skaičiai</title>
+		<year>2017</year>
+		<country>Lithuania</country>
+		<genre>Hip hop</genre>
+		<style>-</style>
+		<format>CD</format>
+		<label>Self-released</label>
+		<id>none</id>
+	</album>
+	<album>
+		<artist>Brian Eno</artist>
+		<title>Ambient 1 (Music for airports)</title>
+		<year>1978</year>
+		<country>UK</country>
+		<genre>Electronic</genre>
+		<style>Ambient</style>
+		<format>LP</format>
+		<label>Polydor</label>
+		<id>AMB 001</id>
+	</album>
+	<album>
+		<artist>Slayer</artist>
+		<title>Diabolus in musica</title>
+		<year>1988</year>
+		<country>USA</country>
+		<genre>Rock</genre>
+		<style>Thrash metal</style>
+		<format>CD</format>
+		<label>America Recordings</label>
+		<id>CK 69192</id>
+	</album>
+	<album>
+		<artist>Butcher Brown</artist>
+		<title>Live at Vagabond</title>
+		<year>2017</year>
+		<country>UK</country>
+		<genre>Jazz</genre>
+		<style>Jazz-rock</style>
+		<format>LP</format>
+		<label>Gearbox Records</label>
+		<id>GB1542</id>
+	</album>
+	<album>
+		<artist>Phyllis St. James</artist>
+		<title>Ain't no turnin' black</title>
+		<year>1984</year>
+		<country>Europe</country>
+		<genre>Soul</genre>
+		<style>Boogie</style>
+		<format>LP</format>
+		<label>Motown</label>
+		<id>ZL72298</id>
+	</album>
+	<album>
+		<artist>Free energy</artist>
+		<title>Stuck on nothing</title>
+		<year>2010</year>
+		<country>USA</country>
+		<genre>Rock</genre>
+		<style>Alternative rock</style>
+		<format>CD</format>
+		<label>DFA</label>
+		<id>5099945888526</id>
+	</album>
+	<album>
+		<artist>The Chemical brothers</artist>
+		<title>Come with us</title>
+		<year>2002</year>
+		<country>Europe</country>
+		<genre>Electronic</genre>
+		<style>House</style>
+		<format>CD</format>
+		<label>Freestle Dust</label>
+		<id>XDUSTCD5</id>
+	</album>
+	<album>
+		<artist>Edith Piaf</artist>
+		<title>Edith Piaf</title>
+		<year>1970</year>
+		<country>Europe</country>
+		<genre>Pop</genre>
+		<style>Chanson</style>
+		<format>LP</format>
+		<label>Music for Pleasure</label>
+		<id>MFP 5046</id>
+	</album>
+	<album>
+		<artist>Melba Moore</artist>
+		<title>Never say never</title>
+		<year>1983</year>
+		<country>Canada</country>
+		<genre>Funk</genre>
+		<style>Soul</style>
+		<format>LP</format>
+		<label>Capitol Records</label>
+		<id>ST-12305</id>
+	</album>
+	<album>
+		<artist>MC Rage</artist>
+		<title>Chains</title>
+		<year>2003</year>
+		<country>Italy</country>
+		<genre>Electronic</genre>
+		<style>Gabber</style>
+		<format>2xCD</format>
+		<label>So-Real Records</label>
+		<id>SORL 036</id>
+	</album>
+	<album>
+		<artist>Lisa Shaw</artist>
+		<title>Free</title>
+		<year>2008</year>
+		<country>USA</country>
+		<genre>Electronic</genre>
+		<style>Downtempo</style>
+		<format>CD</format>
+		<label>Salted Music</label>
+		<id>SLT 254-2</id>
+	</album>
+	<album>
+		<artist>Massive attack</artist>
+		<title>Heligoland</title>
+		<year>2010</year>
+		<country>UK</country>
+		<genre>Electronic</genre>
+		<style>Trip hop</style>
+		<format>CD</format>
+		<label>Virgin</label>
+		<id>CDV3070</id>
+	</album>
+	<album>
+		<artist>Count Basie</artist>
+		<title>Count Basie</title>
+		<year>1984</year>
+		<country>USA</country>
+		<genre>Jazz</genre>
+		<style>Big band</style>
+		<format>LP</format>
+		<label>Phoenix 10</label>
+		<id>PHX 304</id>
+	</album>
+	<album>
+		<artist>Pompa</artist>
+		<title>Mallonu</title>
+		<year>1992</year>
+		<country>Lithuania</country>
+		<genre>Hip hop</genre>
+		<style>Gangsta</style>
+		<format>MC</format>
+		<label>Bomba Records</label>
+		<id>BBMC 001</id>
+	</album>
+	<album>
+		<artist>Traffic</artist>
+		<title>Mr. Fantasy</title>
+		<year>-</year>
+		<country>Germany</country>
+		<genre>Rock</genre>
+		<style>Psychedelic rock</style>
+		<format>LP</format>
+		<label>Island Records</label>
+		<id>85 784 ET</id>
+	</album>
+	<album>
+		<artist>Thore Skogman</artist>
+		<title>Skogmanjul</title>
+		<year>1985</year>
+		<country>Sweden</country>
+		<genre>Pop</genre>
+		<style>Schlager</style>
+		<format>LP</format>
+		<label>Columbia</label>
+		<id>1361941</id>
+	</album>
+	<album>
+		<artist>Pet shop boys</artist>
+		<title>Fundamental</title>
+		<year>2006</year>
+		<country>USA</country>
+		<genre>Electronic</genre>
+		<style>Euro house</style>
+		<format>CD</format>
+		<label>Rhino Entertainment Company</label>
+		<id>R2 79532</id>
+	</album>
+	<album>
+		<artist>M.C. Hammer</artist>
+		<title>Let's get it started</title>
+		<year>1988</year>
+		<country>USA</country>
+		<genre>Hip hop</genre>
+		<style>Pop rap</style>
+		<format>CD</format>
+		<label>Capitol Records</label>
+		<id>CDP 590924</id>
+	</album>
+	<album>
+		<artist>Marusha</artist>
+		<title>Rave satellite</title>
+		<year>2018</year>
+		<country>Germany</country>
+		<genre>Electronic</genre>
+		<style>Breakbeat</style>
+		<format>Digital</format>
+		<label>Club Arrest Music</label>
+		<id>4251513958319</id>
+	</album>
+	<album>
+		<artist>Ace of base</artist>
+		<title>The sign</title>
+		<year>1983</year>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<style>Europop</style>
+		<format>CD</format>
+		<label>Arista</label>
+		<id>07822-18740-2</id>
+	</album>
+	<album>
+		<artist>Kerri Chandler</artist>
+		<title>Fingerprintz EP</title>
+		<year>2017</year>
+		<country>UK</country>
+		<genre>Electronic</genre>
+		<style>Deep house</style>
+		<format>EP</format>
+		<label>Madhouse Records, Inc.</label>
+		<id>MAD0530-17</id>
+	</album>
+	<album>
+		<artist>Ratata</artist>
+		<title>Jackie</title>
+		<year>1982</year>
+		<country>Sweden</country>
+		<genre>Pop</genre>
+		<style>New wave</style>
+		<format>LP</format>
+		<label>Stranded Records</label>
+		<id>EKO 110</id>
+	</album>
+	<album>
+		<artist>Solveig Leithaug</artist>
+		<title>In the world</title>
+		<year>1986</year>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<style>Ballad</style>
+		<format>LP</format>
+		<label>DaySpring International</label>
+		<id>7-01-414901-6</id>
+	</album>
+	<album>
+		<artist>Taylor Swift</artist>
+		<title>Reputation</title>
+		<year>2017</year>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<style>Trap</style>
+		<format>CD</format>
+		<label>Big Machine Recordings</label>
+		<id>BMRCO0600A</id>
+	</album>
+	<album>
+		<artist>Ed Sheeran</artist>
+		<title>X</title>
+		<year>2014</year>
+		<country>UK</country>
+		<genre>Rock</genre>
+		<style>Pop rock</style>
+		<format>CD</format>
+		<label>Asylum Records</label>
+		<id>825646285907</id>
+	</album>
+	<album>
+		<artist>Drake</artist>
+		<title>Scorpion</title>
+		<year>2018</year>
+		<country>USA</country>
+		<genre>hip hop</genre>
+		<style>-</style>
+		<format>2xCD</format>
+		<label>Young Money Entertainment</label>
+		<id>B002882802</id>
+	</album>
+	<album>
+		<artist>Ariana Grande</artist>
+		<title>My everything</title>
+		<year>2014</year>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<style>RnB/Swing</style>
+		<format>CD</format>
+		<label>Republic Records</label>
+		<id>B0021395-02</id>
+	</album>
+	<album>
+		<artist>Queen</artist>
+		<title>The works</title>
+		<year>1984</year>
+		<country>UK</country>
+		<genre>Rock</genre>
+		<style>Pop rock</style>
+		<format>LP</format>
+		<label>EMI</label>
+		<id>EMC 24 0014 1</id>
+	</album>
+	<album>
+		<artist>Eminem</artist>
+		<title>Encore</title>
+		<year>2004</year>
+		<country>Europe</country>
+		<genre>Hip hop</genre>
+		<style>Pop rap</style>
+		<format>CD</format>
+		<label>Shady Records</label>
+		<id>0602498648841</id>
+	</album>
+	<album>
+		<artist>Vytautas Kernagis</artist>
+		<title>Keistumas</title>
+		<year>1991</year>
+		<country>Lithuania</country>
+		<genre>Rock</genre>
+		<style>Acoustic</style>
+		<format>MC</format>
+		<label>Ritonis</label>
+		<id>none</id>
+	</album>
+	<album>
+		<artist>Maroon 5</artist>
+		<title>Red pill blues</title>
+		<year>2017</year>
+		<country>USA</country>
+		<genre>Rock</genre>
+		<style>Pop rock</style>
+		<format>CD</format>
+		<label>222 Records</label>
+		<id>B0026740-02</id>
+	</album>
+	<album>
+		<artist>Turbo B</artist>
+		<title>Make way for the maniac</title>
+		<year>1993</year>
+		<country>Germany</country>
+		<genre>Electronic</genre>
+		<style>Euro house</style>
+		<format>CD</format>
+		<label>Polydor</label>
+		<id>519 147-2</id>
+	</album>
+	<album>
+		<artist>Bruno Mars</artist>
+		<title>Unorthodox jukebox</title>
+		<year>2012</year>
+		<country>Europe</country>
+		<genre>Pop</genre>
+		<style>RnB</style>
+		<format>CD</format>
+		<label>Atlantic</label>
+		<id>7567-87628-5</id>
+	</album>
+	<album>
+		<artist>Mariah Carey</artist>
+		<title>Memoirs of an imperfect angel</title>
+		<year>2009</year>
+		<country>Europe</country>
+		<genre>Pop</genre>
+		<style>RnB/Swing</style>
+		<format>CD</format>
+		<label>Island Records</label>
+		<id>0602527204628</id>
+	</album>
+	<album>
+		<artist>Andrius Mamontovas</artist>
+		<title>The Hong Kong tapes</title>
+		<year>2018</year>
+		<country>Lithuania</country>
+		<genre>Electronic</genre>
+		<style>Ambient</style>
+		<format>CDr</format>
+		<label>Mono Stereo Įrašai</label>
+		<id>none</id>
+	</album>
+	<album>
+		<artist>Dua lipa</artist>
+		<title>Dua lipa</title>
+		<year>2017</year>
+		<country>Europe</country>
+		<genre>Pop</genre>
+		<style>Synth-pop</style>
+		<format>CD</format>
+		<label>Warner Bros. Records</label>
+		<id>0190295938482</id>
+	</album>
+</music>

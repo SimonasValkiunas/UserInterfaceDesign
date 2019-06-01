@@ -1,0 +1,46 @@
+.btn {
+    width: 20%;
+   
+    /* margin-top: 2vh; */
+}
+body{
+    margin-left: 10%;
+}
+.form-control{
+    width: 20%;
+}
+.container{
+    margin-top: 20vh;
+    margin-left: 30%;
+}
+
+.btn-light{
+    height: 20vh;
+    border: solid;
+    font-size: 300%;
+}
+.col-sm{
+    width: 45%;
+}
+#playerName1{
+    display: inline;
+}
+#playerName2{
+    display: inline;
+}
+#playerScore1{
+    display: inline;
+}
+#playerScore2{
+    display: inline;
+}
+
+@media screen and (max-width: 600px){
+  
+    .btn {
+        width: 30%;
+    }
+    .form-control{
+        width: 30%;
+    }
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-secondary{
+    margin: 5px;
+    width: 95%;
+}
+
+.col-sm{
+    width: 50%;
+}
+
+
+.row > .btn-group {
+    width: 100%;
+}
+
+@media (max-width: 700px) { 
+   
+    .col-sm{
+        width: 100%;
+    }
+
+    body{
+        margin: 10px;
+    }
+
+ }
